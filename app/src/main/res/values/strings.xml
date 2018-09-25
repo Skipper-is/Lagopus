@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lagopus</string>
+    <string name="action_settings">Settings</string>
+    <string name="grouse_number_tag">Number of Grouse:</string>
+    <string name="distance_tag">Distance</string>
+    <string name="droppings">Droppings</string>
+    <string name="feathers">Feathers</string>
+    <string name="signs">Signs</string>
+    <string name="other_indicators">Other Indicators</string>
+    <string name="comments_tag">Comments</string>
+    <string name="save">Save</string>
+    <string name="headingtext">Heading:</string>
+</resources>
